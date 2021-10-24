@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Patika Third Homework</title>
+    <P>The article is completely taken from wikipedia. It is a work for homework.</P>
+    <a href="#footer">Go To Bottom</a>
+</head>
+<body style="background-color:powderblue;"></body>
+
+<h1>SOME OF MY FAVORİTE ARTİSTS</h1>
+    
+    <h2>Avril Lavigne</h2>
+
+    <p>Avril Ramona Lavigne (/ˌævrɪl ləˈviːn/ AV-ril lə-VEEN, French: [avʁil laviɲ]; born September 27, 1984) is a Canadian singer, songwriter and actress. By the age of 15, she had appeared on stage with Shania Twain, and by 16, she had signed a two-album recording contract with Arista Records worth more than $2 million.</p>
+
+    <a href="https://en.wikipedia.org/wiki/Avril_Lavigne" target="_blank"><img width="150px" src="https://lite-images-i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15" alt="AvrilLavigneImage"></a>
+
+    <p>Lavigne's debut studio album, Let Go (2002), is the best-selling album of the 21st century by a Canadian artist. It yielded the singles "Complicated" and "Sk8er Boi", which emphasized a skate punk persona and earned her the title "Pop Punk Queen" from music publications. She is considered a key musician in the development of pop punk music, since she paved the way for female-driven, punk-influenced pop music in the early 2000s. Her second studio album, Under My Skin (2004), became Lavigne's first album to reach the top of the Billboard 200 chart in the United States, going on to sell 10 million copies worldwide.</p>
+
+    <a href="https://en.wikipedia.org/wiki/Avril_Lavigne" target="_blank"> Read On Wikipedia</a>
+
+    <h4><u>Some Popular Songs</u></h4>
+
+    <ul>
+        <li>Complicated</li>
+        <li>Girlfriend</li>
+        <li>Sk8er Boi</li>
+        <li>When You're Gone</li>
+        <li>My Happy Ending</li>
+    </ul>
+
+    <hr style="width:500px; text-align:left;margin-left:0" color="red" size="10" >
+
+    <h2>Evanescence</h2>
+    <p>Evanescence is an American rock band founded in Little Rock, Arkansas, in 1995 by singer, pianist, and keyboardist Amy Lee and guitarist Ben Moody. After recording independent albums, the band released their first full-length album, Fallen, on Wind-up Records in 2003. On the strength of hit singles "Bring Me to Life" and "My Immortal", Fallen sold more than 17 million copies worldwide and helped the band win two Grammy Awards out of six nominations. A year later, Evanescence released their first live album, Anywhere but Home, which sold more than one million copies worldwide. In 2006, the band released their second studio album, The Open Door, which sold more than five million copies.</p>
+
+    <a href="https://en.wikipedia.org/wiki/Evanescence" target="_blank"><img width="150px" src="https://turkgitar.net/wp-content/uploads/2017/10/evanescence-Cropped-671x377_800x449.jpg" alt="EvanescenceImage"></a>
+
+    <p>The band reconvened in June 2009 with a new lineup; their next studio album, Evanescence, was released in 2011. It debuted at the top of the Billboard 200 chart with 127,000 copies in sales. The album also debuted at number one on four other different Billboard charts; the Rock Albums, Digital Albums, Alternative Albums, and the Hard Rock Albums charts. The band spent 2012 on tour in promotion of their latest album with other bands including The Pretty Reckless and Fair to Midland. Troy McLawhorn also became a full-time band member during this time. Following the end of the album's tour cycle in 2012, the band entered another hiatus.</p>
+
+    <a href="https://en.wikipedia.org/wiki/Evanescence" target="_blank"> Read On Wikipedia</a>
+
+    <h4><u>Some Popular Songs</u></h4>
+
+    <ul>
+        <li>Bring Me to Life</li>
+        <li>My Immortal</li>
+        <li>Going Under</li>
+        <li>Call Me When You’re Sober</li>
+        <li>Lithium</li>
+    </ul>
+
+    <hr style="width:500px; text-align:left;margin-left:0" color="red" size="10" >
+
+    <h2>Metallica</h2>
+    <p>Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding "big four" bands of thrash metal, alongside Megadeth, Anthrax and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Guitarist Dave Mustaine (who went on to form Megadeth after being fired from the band) and bassists Ron McGovney, Cliff Burton (who died in a bus accident in Sweden in 1986) and Jason Newsted are former members of the band.</p>
+
+    <a href="https://en.wikipedia.org/wiki/Metallica" target="_blank"><img width="150px" src="https://static.wikia.nocookie.net/metallica/images/6/62/Metallica1983backstagephoto1.jpg/revision/latest/scale-to-width-down/396?cb=20140509235604" alt="MetallicaImage"></a>
+
+    <p>After two albums on Megaforce Records and signing to major label Elektra in 1984, Metallica first found commercial success with the release of its third album, Master of Puppets (1986), which has been described as one of the heaviest and most influential thrash metal albums. Their next album, ...And Justice for All (1988), was also successful and gave Metallica their first Grammy Award nomination. Its eponymous fifth album, Metallica (1991), the band's first not to root predominantly in thrash metal, appealed to a more mainstream audience, achieving substantial commercial success and selling over 16 million copies in the United States to date, making it the best-selling album of the SoundScan era. After experimenting with different genres and directions in subsequent releases, the band returned to its thrash metal roots with the release of its ninth album, Death Magnetic (2008), which drew similar praise to that of the band's earlier albums. Their most recent album is Hardwired... to Self-Destruct, released in 2016.</p>
+
+        <a href="https://en.wikipedia.org/wiki/Metallica" target="_blank"> Read On Wikipedia</a>
+
+        <h4><u>Some Popular Songs</u></h4>
+
+    <ul>
+        <li>Nothing Else Matters</li>
+        <li>Enter Sandman</li>
+        <li>The Unforgiven</li>
+        <li>One</li>
+        <li>Fight Fire With Fire</li>
+    </ul>
+
+    <hr style="width:500px; text-align:left;margin-left:0" color="red" size="10" >
+
+    <h2>Queen</h2>
+
+    <p>Queen are a British rock band formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals, piano), Brian May (guitar, vocals), Roger Taylor (drums, vocals) and John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.</p>
+
+    <a href="https://en.wikipedia.org/wiki/Queen_(band)" target="_blank"><img width="150px" src="https://www.dogaplakkitap.com/1289/queen-radio-ga-ga.jpg" alt="QueenImage"></a>
+
+    <p>Before forming Queen, May and Taylor had played together in the band Smile. Mercury was a fan of Smile and encouraged them to experiment with more elaborate stage and recording techniques. He joined in 1970 and suggested the name "Queen". Deacon was recruited in February 1971, before the band released their eponymous debut album in 1973. Queen first charted in the UK with their second album, Queen II, in 1974. Sheer Heart Attack later that year and A Night at the Opera in 1975 brought them international success. The latter featured "Bohemian Rhapsody", which stayed at number one in the UK for nine weeks and helped popularise the music video format.<p>
+
+            <a href="https://en.wikipedia.org/wiki/Queen_(band)" target="_blank"> Read On Wikipedia</a>
+
+        <h4><u>Some Popular Songs</u></h4>
+
+    <ul>
+        <li>Bohemian Rhapsody</li>
+        <li>We Will Rock You</li>
+        <li>Another One Bites the Dust</li>
+        <li>We Are The Champions</li>
+        <li>The Show Must Go On</li>
+    </ul>
+
+    <hr style="text-align:left;margin-left:0" color="gree" size="5" >
+    <hr style="text-align:left;margin-left:0" color="red" size="5" >
+    <hr style="text-align:left;margin-left:0" color="blue" size="5" >
+
+    <h6 id="footer">Bottom</h6>
+
+    <P>The article is completely taken from wikipedia. It is a work for homework.</P>
+
+    
+</body>
+</html>
