@@ -1,0 +1,54 @@
+<body style="background-color:rgb(57, 199, 218);">
+</body>
+
+<head>
+    <title>Patika Second Homework</title>
+</head>
+
+<h1>UMUTCAN ZAROGLU</h1>
+
+<hr>
+
+<img width="200" height="200"  src="https://media-exp1.licdn.com/dms/image/C4E03AQEiXGygnEDDRg/profile-displayphoto-shrink_800_800/0/1634117988447?e=1640822400&v=beta&t=VMeqdV7tTzNT3PLmdW0ehGyH7VneOK4kpkF6CmCjn4Y" alt="Umutcan Zaroglu Photo">
+
+<p>Hello to everyone! I'm Umutcan Zaroglu. I'm here with the second of the trainings I took on the Patika site.</p>
+
+<a href="https://www.linkedin.com/in/umutcan-zaroglu-1aa4b5222/" target="_blank">  <img 
+    width="108.25px" height="26.21675px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1280px-LinkedIn_Logo_2013.svg.png" alt="Linkedin"></a>
+
+<a href="https://github.com/umutcanzaroglu" target="_blank"> <img width="108.25px" height="26.21675px" src="data:image/png;base64,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" alt="GitHub"> </a>
+
+<a href="https://www.instagram.com/umutcanzaroglu/" target="_blank"> <img width="108.25px" height="26.21675px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png" alt="İnstagram"> </a>
+
+<h3>Education</h3>
+<ul>
+    <li>Ankara University</li>
+</ul>
+
+<h3>Jobs He Is Interested In</h3>
+
+<ul>
+    <li>Software Development</li>
+    <li>Financial Management</li>
+    <li>Photography</li>
+    <li>Videography</li>
+</ul>
+
+<h3>Hobbies</h3>
+
+<ul>
+    <li>Researching Future Technologies</li>
+    <li>Reading A Biography</li>
+    <li>Playing Guitar</li>
+    <li>Playing Games</li>
+    <li>Listen To Music</li>
+    <li>Reading A Book</li>
+    <li>Watching Movie</li>
+</ul>
+
+<h3>Languages ​​Spoken And Degrees</h3>
+
+<ul>
+    <li>Turkish ==> Native Language</li>
+    <li>English ==> Intermediate Level (B2)</li>
+</ul>
